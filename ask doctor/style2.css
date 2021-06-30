@@ -1,31 +1,28 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
 
-.bg {
-  height: 320px;
-  margin-left: auto;
-  margin-right: auto;
-  position: relative; /* and this has to be relative */
-  width: 750px;
-  background-repeat: round space;
+#bgrnd {
+  padding-left: 100px;
+  width: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-items: center;
+  display: block;
+  justify-content: center;
+  margin-left: 250px;
 }
+#nova {
+  background-image: url("nova.png");
 
-.nova {
-  width: 141px;
-  height: 49px;
-  position: relative;
-  top: -265;
-  margin-left: 570px;
+  height: 100px;
+  right: -60px; /* play around with this */
+  position: absolute;
+  top: 30px; /* and play around with this */
+  width: 225px;
+  background-repeat: no-repeat;
 }
-
-.badge {
-  position: relative;
-  top: -135;
-  right: -455;
-}
-
 .Ask-a-Doctor {
-  width: 220px;
+  width: 219px;
   height: 45px;
   font-family: Poppins;
   font-size: 32px;
@@ -35,11 +32,28 @@
   line-height: 1.56;
   letter-spacing: normal;
   text-align: left;
-  color: #000000;
+  color: #ffffff;
+  margin-top: -70px;
+  margin-left: 60px;
+}
+#bg {
+  background-image: url("abc.png");
+  height: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative; /* and this has to be relative */
+  width: 750px;
+  background-repeat: round space;
+}
+.cornered {
+  width: 210px;
+  height: 0px;
+  line-height: 0%;
 
-  position: relative;
-  top: -235;
-  margin-left: 515px;
+  margin-left: 455px;
+  padding-top: 175px;
+  align-items: center;
+  justify-content: center;
 }
 
 .l1 {
@@ -47,18 +61,15 @@
   font-family: Muli;
   font-style: normal;
   color: #292929;
+  margin-left: 420px;
+  margin-top: 40px;
   font-weight: 600;
   line-height: 2;
-  position: relative;
-  top: 240;
-  right: 100;
-  margin-left: 120px;
-  margin-top: 40px;
 }
 
 .l2 {
   font-size: 18px;
-  font-family: muli;
+  font-family: Muli;
   font-style: normal;
   color: #292929;
   margin-left: 420px;
@@ -71,7 +82,7 @@
 
 .l3 {
   font-size: 16px;
-  font-family: muli;
+  font-family: Muli;
   font-style: normal;
   color: #292929;
   margin-left: 420px;
@@ -83,7 +94,7 @@
 
 .l4 {
   font-size: 16px;
-  font-family: muli;
+  font-family: Muli;
   font-style: normal;
   color: #292929;
   margin-left: 420px;
@@ -146,7 +157,7 @@
 
 .l5 {
   font-size: 18px;
-  font-family: muli;
+  font-family: Muli;
   font-style: normal;
   color: #292929;
   margin-left: 420px;
@@ -165,21 +176,31 @@
 }
 
 .tabs1 {
-  font-size: 16px;
-  font-family: muli;
-  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Muli;
+  color: black;
   margin-top: 30px;
-  margin-left: 50px;
-  padding-top: 20px;
+  margin-left: 420px;
+  padding-top: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
 }
 .tabs {
-  font-size: 16px;
-  font-family: muli;
-  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Muli;
+  color: black;
 
-  margin-left: 50px;
+  margin-left: 420px;
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
 }
 
 .footer {
@@ -188,6 +209,7 @@
   margin-right: 360px;
   padding-top: 10px;
   align-items: center;
+  font-family: Poppins;
 }
 .row {
   display: flex;
@@ -202,10 +224,4 @@
   flex: 33.33%;
   margin-top: 10px;
   margin-left: -180px;
-}
-
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
