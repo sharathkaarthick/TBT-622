@@ -1,0 +1,227 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+.container {
+  border-color: black;
+  width: 900px;
+  height: 320px;
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-bottom: 30px;
+}
+
+#nova {
+  background-image: url("nova.png");
+
+  height: 90px;
+  right: 15px;
+  position: absolute;
+  top: 40px;
+  width: 265px;
+}
+
+#bg {
+  background-image: url("bg.png");
+  height: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width: 900px;
+}
+
+.l1 {
+  font-size: 25px;
+  font-family: Muli;
+  font-style: normal;
+  color: #292929;
+  margin-left: 36px;
+  margin-top: 77px;
+  width: 122px;
+  height: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+}
+
+.l2 {
+  font-size: 18px;
+  font-family: Muli;
+  width: 434px;
+  height: 136px;
+  color: #292929;
+  margin-left: 36px;
+  margin-top: 40px;
+  margin-right: 380px;
+  margin-bottom: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+}
+
+.l3 {
+  font-size: 18px;
+  font-family: Muli;
+  color: #292929;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 10px;
+
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.mobile_text {
+  width: 360px;
+  height: 19px;
+  margin: -40px 0px 0px -340px;
+  font-family: Muli;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+}
+
+.l4 {
+  font-size: 18px;
+  font-family: muli;
+  color: #292929;
+  margin-left: 36px;
+  margin-top: 77px;
+  margin-right: 380px;
+  margin-bottom: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+}
+
+.l5 {
+  font-size: 18px;
+  font-family: muli;
+  font-style: normal;
+  color: #292929;
+  margin-top: 2px;
+  font-weight: bold;
+
+  margin-bottom: 10px;
+}
+
+.mobile {
+  font-size: 16px;
+  font-family: muli;
+
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tabs1 {
+  font-size: 16px;
+  font-family: muli;
+  color: rgb(255, 255, 255);
+  margin-top: 30px;
+  margin-left: 50px;
+  padding-top: 20px;
+}
+.tabs {
+  font-size: 16px;
+  font-family: muli;
+  color: rgb(255, 255, 255);
+
+  margin-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.b1 {
+  border: 2px solid gray;
+  border-radius: 15px;
+  margin-top: 30px;
+
+  width: 500px;
+  color: #2e6bb1;
+  font-weight: bold;
+  word-spacing: 10px;
+  display: flex;
+  align-items: center;
+  word-wrap: break-word;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.apps {
+  display: block;
+}
+
+.row {
+  display: flex;
+}
+.column {
+  padding: 5px;
+  flex: 33.33%;
+  margin-left: 250px;
+}
+.column1 {
+  padding: 5px;
+  flex: 33.33%;
+  margin-top: 10px;
+  margin-left: -150px;
+}
+
+.border {
+  border: solid 1px #cfcfcf;
+  background-color: #ffffff;
+  border-radius: 15px;
+  justify-content: left;
+  width: 500px;
+  margin-left: 190px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.password {
+  font-family: Muli;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  color: #2e6bb1;
+  text-align: center;
+}
+
+.nova123 {
+  font-family: Muli;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+
+  color: #292929;
+}
