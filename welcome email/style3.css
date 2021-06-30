@@ -1,0 +1,485 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+.Group-21 {
+  width: 600px;
+  height: 220px;
+  margin: 20px 0 40px 0px;
+  padding: 0px 0px 8px;
+  object-fit: contain;
+  align-items: left;
+}
+
+.Group-24 {
+  width: 141px;
+  height: 49px;
+  margin: 40px 0 150px -370px;
+  object-fit: contain;
+}
+
+.Welcome-to {
+  width: 452px;
+  height: 83px;
+  margin: 30px 0px 0px -525px;
+  font-family: "Poppins";
+  font-size: 28px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.Dear-John {
+  width: 120px;
+  height: 30px;
+  margin: 220px 500px 0px -550px;
+  font-family: "Muli";
+  font-size: 22px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+  position: relative;
+}
+
+.Greetings-from-NOVA {
+  width: 200px;
+  height: 24px;
+  top: 50;
+  font-family: "Muli";
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.44;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+  position: absolute;
+}
+
+.We-are-super {
+  width: 500px;
+  height: 49px;
+  margin: 260px 0 0 -620px;
+  top: 100;
+  font-family: "Muli";
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+  position: relative;
+}
+
+.NOVA-Cosmetic {
+  width: 460px;
+  height: 105px;
+  margin: 130px 0 0 -500px;
+  font-family: "Muli";
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+  position: relative;
+  top: 270;
+}
+
+.Rectangle-2 {
+  width: 190px;
+  height: 150px;
+  margin: 50px 270px 18px -460px;
+  padding: 25px 20px 10px 30px;
+  border-radius: 15px;
+  border: solid 1px #cfcfcf;
+  background-color: #ffffff;
+  text-align: center;
+  position: relative;
+  top: 530;
+}
+
+.appointment {
+  width: 51.5px;
+  height: 49px;
+  margin: 0 60px 12px 53.8px;
+  object-fit: contain;
+}
+
+.Book {
+  width: 40px;
+  height: 23px;
+  margin: 0 70px 5px;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #2e6bb1;
+}
+.Book-your {
+  width: 160px;
+  height: 34px;
+  margin: 5px 15px 0;
+  font-family: "Muli";
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #292929;
+}
+.Rectangle-3 {
+  width: 190px;
+  height: 150px;
+  margin: 140px 0px 18px -120px;
+  padding: 20px 25px 20px 30px;
+  border-radius: 15px;
+  border: solid 1px #cfcfcf;
+  background-color: #ffffff;
+  text-align: center;
+  position: relative;
+  top: 487;
+  left: -120;
+}
+.doctor-1 {
+  width: 44.1px;
+  height: 50px;
+  margin: 0 60px 15px 60px;
+  object-fit: contain;
+}
+.Consult {
+  width: 64px;
+  height: 23px;
+  margin: 0px 60px 5px;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #2e6bb1;
+}
+.Our-solution {
+  width: 155px;
+  height: 52px;
+  margin: 5px 20px 0;
+  font-family: "Muli";
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #292929;
+}
+
+.Rectangle-4 {
+  width: 190px;
+  height: 160px;
+  margin: 140px 270px -130px -430px;
+  padding: 20px 20px 20px 30px;
+  border-radius: 15px;
+  border: solid 1px #cfcfcf;
+  background-color: #ffffff;
+  text-align: center;
+  position: relative;
+  top: 630;
+  left: -210;
+}
+.medical-record {
+  width: 50.9px;
+  height: 41.4px;
+  margin: 0 56.5px 15px;
+  object-fit: contain;
+}
+.Digital-Records {
+  width: 124px;
+  height: 23px;
+  margin: 0 35px 8px;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #2e6bb1;
+}
+.All-your-medical {
+  width: 173px;
+  height: 70px;
+  margin: 8px 12px 0;
+  font-family: "Muli";
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #292929;
+}
+
+.Rectangle-5 {
+  width: 190px;
+  height: 160px;
+  margin: 130px 0px 18px -250px;
+  padding: 20px 20px 20px 30px;
+  border-radius: 15px;
+  border: solid 1px #cfcfcf;
+  background-color: #ffffff;
+  text-align: center;
+  position: relative;
+  top: 710;
+  left: -200;
+}
+.chat-1 {
+  width: 48.3px;
+  height: 45.3px;
+  margin: 0 47px 10px 47px;
+  object-fit: contain;
+}
+.Ask-a-Doctor {
+  width: 104px;
+  height: 23px;
+  margin: 0 40px 8px;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+
+  color: #2e6bb1;
+}
+.Any-questions {
+  width: 160px;
+  height: 70px;
+  margin: 8px 20px 0;
+  font-family: "Muli";
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #292929;
+}
+
+.Do-consider {
+  width: 460px;
+  height: 49px;
+  margin: 443px -259px -425px -259px;
+  font-family: "Muli";
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+  position: relative;
+  top: 490;
+  left: -440;
+}
+
+.phone {
+  margin: 443px -200px -425px -200px;
+  position: relative;
+  top: 540;
+  left: -490;
+}
+
+.phone-call {
+  width: 19.1px;
+  height: 19.1px;
+  margin: 26px 40px 14.8px 51px;
+  object-fit: contain;
+}
+
+.number {
+  width: 250px;
+  height: 19px;
+  margin: -55px 1px 20px 85px;
+  font-family: "Muli";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+}
+
+.mail {
+  margin: 443px -130px -425px -130px;
+  position: relative;
+  top: 600;
+  left: -495;
+}
+
+.email {
+  width: 22px;
+  height: 16.2px;
+  margin: 10px 20px 14.8px 25px;
+  object-fit: contain;
+}
+.mailid {
+  width: 139px;
+  height: 19px;
+  margin: -28px 1px 16px 87px;
+  font-family: "Muli";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+}
+
+.app {
+  margin: 443px -130px -425px -130px;
+  position: relative;
+  top: 650;
+  left: -463;
+}
+
+.Path-3 {
+  width: 12.6px;
+  height: 21px;
+  margin: 10px 20px 14.8px 28px;
+  object-fit: contain;
+}
+.Open-app {
+  width: 236px;
+  height: 19px;
+  margin: -28px 1px 16px 87px;
+  font-family: "Muli";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+}
+
+.web {
+  margin: 443px -130px -425px -130px;
+  position: relative;
+  top: 700;
+  left: -527;
+}
+.world {
+  width: 21px;
+  height: 21px;
+  margin: 10px 20px 14.8px 26px;
+  object-fit: contain;
+}
+.website {
+  width: 380px;
+  height: 19px;
+  margin: -28px 1px 16px 85px;
+  font-family: "Muli";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+}
+
+.Rectangle-6 {
+  width: 300px;
+  height: 100px;
+  margin: 600px -390px -625px -390px;
+  padding: 38px 190px 62px 190px;
+  background-color: #2e6bb1;
+  position: relative;
+  top: 680;
+  left: -520;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Wish {
+  width: 220px;
+  height: 30px;
+  margin: -120px 180px 300px -20px;
+  font-family: "Poppins";
+  font-size: 23px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.Rectangle-7 {
+  width: 190px;
+  height: 18px;
+  margin: 0px 240px 0 250px;
+  padding: 9.5px 22px 9.5px 17.3px;
+  border-radius: 7px;
+  background-color: #ffffff;
+}
+
+.facebook-1 {
+  width: 16px;
+  height: 22px;
+  margin: 0px 0px 5px -1px;
+  object-fit: contain;
+  background-color: #fafbfd;
+}
+.Follow-us {
+  width: 180px;
+  height: 19px;
+  margin: -32px 0px 160px 32px;
+  font-family: "Muli";
+  font-size: 14.5px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}

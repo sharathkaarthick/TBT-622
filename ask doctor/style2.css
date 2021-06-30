@@ -1,0 +1,211 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+.bg {
+  height: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative; /* and this has to be relative */
+  width: 750px;
+  background-repeat: round space;
+}
+
+.nova {
+  width: 141px;
+  height: 49px;
+  position: relative;
+  top: -265;
+  margin-left: 570px;
+}
+
+.badge {
+  position: relative;
+  top: -135;
+  right: -455;
+}
+
+.Ask-a-Doctor {
+  width: 220px;
+  height: 45px;
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+
+  position: relative;
+  top: -235;
+  margin-left: 515px;
+}
+
+.l1 {
+  font-size: 22px;
+  font-family: Muli;
+  font-style: normal;
+  color: #292929;
+  font-weight: 600;
+  line-height: 2;
+  position: relative;
+  top: 240;
+  right: 100;
+  margin-left: 120px;
+  margin-top: 40px;
+}
+
+.l2 {
+  font-size: 18px;
+  font-family: muli;
+  font-style: normal;
+  color: #292929;
+  margin-left: 420px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  line-height: 2.44;
+  letter-spacing: normal;
+  font-weight: normal;
+}
+
+.l3 {
+  font-size: 16px;
+  font-family: muli;
+  font-style: normal;
+  color: #292929;
+  margin-left: 420px;
+  margin-top: 50px;
+  font-weight: bold;
+  line-height: 1.75;
+  letter-spacing: normal;
+}
+
+.l4 {
+  font-size: 16px;
+  font-family: muli;
+  font-style: normal;
+  color: #292929;
+  margin-left: 420px;
+  margin-top: 30px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  line-height: 1.75;
+  letter-spacing: normal;
+  font-stretch: normal;
+}
+
+.b1 {
+  border-radius: 15px;
+  margin-top: 30px;
+  width: 500px;
+  color: #2e6bb1;
+  font-weight: bold;
+  word-spacing: 10px;
+  display: flex;
+  align-items: left;
+  word-wrap: break-word;
+  justify-content: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  overflow-wrap: break-word;
+}
+
+.border {
+  border: solid 1px #cfcfcf;
+  background-color: #ffffff;
+  border-radius: 15px;
+  justify-content: left;
+  width: 500px;
+  margin-left: 420px;
+  padding-left: 30px;
+}
+
+.doctorsreply {
+  font-family: Muli;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  color: #2e6bb1;
+}
+
+.kindly {
+  font-family: Muli;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+
+  color: #292929;
+}
+
+.l5 {
+  font-size: 18px;
+  font-family: muli;
+  font-style: normal;
+  color: #292929;
+  margin-left: 420px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  font-family: Muli;
+  font-size: 16px;
+
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+
+  color: #292929;
+}
+
+.tabs1 {
+  font-size: 16px;
+  font-family: muli;
+  color: rgb(0, 0, 0);
+  margin-top: 30px;
+  margin-left: 50px;
+  padding-top: 20px;
+}
+.tabs {
+  font-size: 16px;
+  font-family: muli;
+  color: rgb(0, 0, 0);
+
+  margin-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.footer {
+  background-color: #2e6bb1;
+  margin-left: 380px;
+  margin-right: 360px;
+  padding-top: 10px;
+  align-items: center;
+}
+.row {
+  display: flex;
+}
+.column {
+  padding: 5px;
+  flex: 43.33%;
+  margin-left: 180px;
+}
+.column1 {
+  padding: 5px;
+  flex: 33.33%;
+  margin-top: 10px;
+  margin-left: -180px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
